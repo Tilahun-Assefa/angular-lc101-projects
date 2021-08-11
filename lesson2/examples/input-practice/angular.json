@@ -115,6 +115,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "input-practice"
+    }
+  },
+  "defaultProject": "input-practice",
+  "cli": {
+    "analytics": false
+  }
 }
